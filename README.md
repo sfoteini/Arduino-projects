@@ -10,4 +10,5 @@ A collection of projects I implemented with Arduino.
 ![Temperature sensor](https://img.shields.io/badge/Temperature%20Sensor-TMP36-00B1B8?style=flat)
 ![Seven-segment display](https://img.shields.io/badge/Seven%20segment-display-00B1B8?style=flat)
 ![Keypad](https://img.shields.io/badge/4x4-Keypad-00B1B8?style=flat)
-![Shift register](https://img.shields.io/badge/Shift%20register-8%20bit-00B1B8?style=flat)
+![Shift register](https://img.shields.io/badge/8%20bit%20Shift%20register-74HC595-00B1B8?style=flat)
+![Joystick](https://img.shields.io/badge/Tools-Joystick-00B1B8?style=flat)

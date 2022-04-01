@@ -15,6 +15,8 @@ A collection of projects I implemented with Arduino.
 ![Joystick](https://img.shields.io/badge/Tools-Joystick-00B1B8?style=flat)
 ![NeoPixel Ring](https://img.shields.io/badge/Tools-NeoPixel%20ring-00B1B8?style=flat)
 ![Force sensitive sensor](https://img.shields.io/badge/Force%20Sensitive-Sensor-00B1B8?style=flat)
+![Passive Infrared sensor](https://img.shields.io/badge/Passive%20Infrared-Sensor-00B1B8?style=flat)
+![Piezo](https://img.shields.io/badge/Tools-Piezo-00B1B8?style=flat)
 
 ## 📚 Resources
 
